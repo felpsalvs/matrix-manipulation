@@ -12,3 +12,13 @@ const people = [
     { text: 'Ramen is my fav food ever', id: 123523 },
     { text: 'Nice Nice Nice!', id: 542328 }
   ];
+
+const isAdult = people.some(person => ((new Date()).getFullYear()) - person.year >= 19);
+console.log({isAdult});
+
+const allAdults = people.every(person => ((new Date()).getFullYear()) - person.year >= 19);
+console.log({allAdults});
+
+const comment = comments.find(comment => comment.id === 823423);
+console.log(comment);
+
