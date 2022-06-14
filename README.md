@@ -1,11 +1,12 @@
 # Cardio-de-matriz-2
 
-![image](https://user-images.githubusercontent.com/78622458/173604664-29e0c97b-433f-490f-9f61-c9f0deb76c73.png)
+![image](https://user-images.githubusercontent.com/78622458/173607049-124174b8-9cce-4498-a22a-7af509135846.png)
+
 
 ### 🔖 Sobre
-É muito produtivo digitar e ter sugestões, e com o JavaScript isso é possível.
+Desafio de hoje foi usar o find para fazer as procuras no filtro e findIndex para deletar.
 
-6/30
+7/30
 
 https://JavaScript30.com
 
@@ -18,7 +19,7 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 ### ⚡ Como ver
 
-Link da demo: https://digite-antes.vercel.app/<br/>
+Link da demo: https://cardio-de-matriz-2.vercel.app/<br/>
 ### Autor
 Felipe Alves <br/><br/>
 
